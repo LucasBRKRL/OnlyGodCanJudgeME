@@ -18,11 +18,11 @@ Este número deve ser sempre ímpar.
          4 5 6
             5   
 			
-4) (0,2) Crie um progama capaz de ler dois nomes de pessoas e imprimi-los em ordem alfabética.//OK
+4) (0,2) Crie um progama capaz de ler dois nomes de pessoas e imprimi-los em ordem alfabética.
 
-5) (0,2) Crie um programa capaz de criar a transposta de uma matriz.//OK mudar algumas coisas//OK
+5) (0,2) Crie um programa capaz de criar a transposta de uma matriz.//OK mudar algumas coisas
 
-6) (0,2) Faça um programa que receba dois números X e Y, sendo X < Y. //OK
+6) (0,2) Faça um programa que receba dois números X e Y, sendo X < Y.
     Calcule e mostre:
     •a soma dos números pares desse intervalo de números, incluindo os números digitados;
     •a multiplicação dos números ímpares desse intervalo, incluindo os digitados
